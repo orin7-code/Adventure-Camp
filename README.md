@@ -1,4 +1,4 @@
 NAMA: Orin Rismaya
 NIM: C2583207046
 Nama Proyek: Adventure Camp
-Program Adventure Camp berbasis bahasa C untuk mengelola penyewaan peralatan camping, menghitung biaya dan diskon, serta mencatat riwayat transaksi secara otomatis.
+Program Adventure Camp merupakan aplikasi berbasis console yang dibuat menggunakan bahasa pemrograman C untuk mengelola penyewaan peralatan camping. Program ini memiliki fitur daftar peralatan, penyewaan beberapa jenis barang dalam satu transaksi, perhitungan biaya otomatis, pemberian diskon berdasarkan lama penyewaan, pencetakan struk, serta pencatatan riwayat transaksi dan total pendapatan.
