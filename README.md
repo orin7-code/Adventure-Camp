@@ -16,29 +16,29 @@ Program ini dirancang untuk memudahkan pengguna dalam melihat daftar peralatan, 
 
 Aplikasi ini juga menyediakan fitur pemberian diskon berdasarkan lama penyewaan dan pencetakan struk transaksi sebagai bukti penyewaan.
 
-## ✨ Fitur Utama
+## Fitur Utama
 
-- 📋 Menampilkan daftar peralatan camping.
-- 🎒 Menyewakan beberapa jenis peralatan dalam satu transaksi.
-- 🧮 Menghitung biaya penyewaan secara otomatis.
-- 💸 Memberikan diskon berdasarkan lama penyewaan.
-- 🧾 Mencetak struk transaksi penyewaan.
-- 📚 Mencatat riwayat transaksi.
-- 💰 Menampilkan total pendapatan dari transaksi penyewaan.
+- Menampilkan daftar peralatan camping.
+- Menyewakan beberapa jenis peralatan dalam satu transaksi.
+- Menghitung biaya penyewaan secara otomatis.
+- Memberikan diskon berdasarkan lama penyewaan.
+- Mencetak struk transaksi penyewaan.
+- Mencatat riwayat transaksi.
+- Menampilkan total pendapatan dari transaksi penyewaan.
 
 ## 🖥️ Tampilan Program
 
 ### 1. Tampilan Awal Program
 
-![Tampilan Awal Adventure Camp](screenshots/tampilan-1.png)
+![Screenshot2026-10-28205156.png](Screenshot2026-10-28205156.png)
 
 ### 2. Tampilan Proses Penyewaan
 
-![Proses Penyewaan Adventure Camp](screenshots/tampilan-2.png)
+![Screenshot2026-10-28205217.png](Screenshot2026-10-28205217.png)
 
 ### 3. Tampilan Hasil Transaksi
 
-![Hasil Transaksi Adventure Camp](screenshots/tampilan-3.png)
+![Screenshot2026-10-28205226.png](Screenshot2026-10-28205226.png)
 
 ## 🛠️ Teknologi yang Digunakan
 
