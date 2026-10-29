@@ -46,41 +46,6 @@ Aplikasi ini juga menyediakan fitur pemberian diskon berdasarkan lama penyewaan 
 - **Jenis Aplikasi:** Console Application
 - **Compiler:** GCC atau compiler C lainnya
 
-## 🚀 Cara Menjalankan Program
-
-1. Pastikan compiler C, seperti GCC, sudah terpasang.
-2. Clone repository ini:
-
-   ```bash
-   git clone https://github.com/USERNAME/Adventure-Camp.git
-   ```
-
-3. Masuk ke folder proyek:
-
-   ```bash
-   cd Adventure-Camp
-   ```
-
-4. Kompilasi program:
-
-   ```bash
-   gcc main.c -o adventure-camp
-   ```
-
-5. Jalankan program.
-
-   **Windows:**
-
-   ```bash
-   adventure-camp.exe
-   ```
-
-   **Linux/macOS:**
-
-   ```bash
-   ./adventure-camp
-   ```
-
 ## 🎯 Tujuan Proyek
 
 Proyek ini dibuat untuk menerapkan konsep dasar pemrograman bahasa C dalam pengembangan aplikasi sederhana, khususnya pengelolaan data penyewaan, perhitungan biaya, pengambilan keputusan menggunakan percabangan, serta pengolahan transaksi.
