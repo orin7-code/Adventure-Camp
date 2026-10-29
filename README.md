@@ -28,7 +28,7 @@ Program ini dirancang untuk memudahkan pengguna dalam melihat daftar peralatan, 
 
 - Bahasa Pemrograman: C
 - Jenis Aplikasi: Console Application
-- Compiler: GCC atau compiler C lainnya
+- Compiler: CodeBlocks
 
 ## Tampilan Program
 
